@@ -3,7 +3,7 @@
 ## Instalar
 
 - Poner en algun directorio de tu drive los dos .zip, con ese nombre.
-- Importar el notebook a google colab (y/o agregarle la gpu)
+- Importar el notebook a google colab (agregarle gpu o borrar la parte de instalacion de tensorflow-gpu)
 
 ## Colaboradores
 
